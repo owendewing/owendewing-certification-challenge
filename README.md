@@ -2,6 +2,10 @@
 
 A modern chatbot application that helps users understand student loan repayment plans, with a focus on the new RAP (Repayment Assistance Plan) introduced in the megabill. Built with React frontend and FastAPI backend, using LangChain and LangGraph for intelligent responses.
 
+## Demo
+
+Link to Demo: https://www.loom.com/share/f25edc9ac0ad4b6895af94f617c214ad
+
 ## Features
 
 - 🤖 **AI-Powered Chatbot**: Uses GPT-4.1 with LangGraph for intelligent conversations
